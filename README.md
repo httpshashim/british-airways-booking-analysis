@@ -17,15 +17,12 @@ This project analyzes airline passenger booking data from British Airways to ide
 
 ## 📁 Project Structure
 british-airways-booking-analysis/
+data/ final_airline_booking_data.csv  ← cleaned CSV
 │
-├── data/
-│   └── final_airline_booking_data.csv  ← cleaned CSV
+notebooks/ booking_analysis.ipynb          ← Kaggle notebook (download it)
 │
-├── notebooks/
-│   └── booking_analysis.ipynb          ← Kaggle notebook (download it)
-│
-├── dashboard/
-│   └── tableau_dashboard.link           ←Tableau dashboard
-|---Changelog
-├── README.md
-└── requirements.txt (optional)
+dashboard/ tableau_dashboard.link           ←Tableau dashboard
+|
+Changelog
+|
+README.md
